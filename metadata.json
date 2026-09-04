@@ -1,0 +1,6 @@
+{
+  "name": "yonas",
+  "description": "Obsessive portfolio for Yonas — Video Editor (Premiere Pro, After Effects, CapCut, Blender), AI Developer, Marketer, and Content Creator with free assets and creator community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
